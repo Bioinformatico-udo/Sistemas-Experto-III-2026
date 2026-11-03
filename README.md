@@ -7,7 +7,6 @@ Fomentar el aprendizaje, la creatividad y el desarrollo de habilidades práctica
 📂 Estructura del repositorio
 El repositorio está organizado en carpetas individuales para cada equipo de desarrollo. Cada equipo debe trabajar exclusivamente en su carpeta asignada:
 
-text
 /Proyectos-Sistemas-Expertos-III-2026
 ├── Equipo1/
 ├── Equipo2/
@@ -22,7 +21,6 @@ text
 └── Equipo11/
 Dentro de cada carpeta, cada equipo puede organizar su proyecto de la siguiente manera:
 
-text
 /EquipoX
 ├── README.md          # Descripción del proyecto
 ├── src/               # Código fuente

@@ -1,11 +1,11 @@
-Repositorio de Proyectos de Sistemas Expertos III 2026
+# Repositorio de Proyectos de Sistemas Expertos III 2026
 Bienvenido/a al repositorio oficial de Proyectos de Sistemas Expertos III 2026. Este espacio está dedicado a los proyectos desarrollados por los Equipos de Desarrollo 1 al 11. Cada equipo tiene asignada una carpeta específica para trabajar en su proyecto, con el objetivo de evitar conflictos entre equipos y fomentar un entorno colaborativo.
 
-🚀 Objetivo
+## 🚀 Objetivo
 
 Fomentar el aprendizaje, la creatividad y el desarrollo de habilidades prácticas en la implementación de sistemas expertos, proporcionando un entorno colaborativo para compartir, mejorar y documentar proyectos académicos.
 
-📂 Estructura del repositorio
+## 📂 Estructura del repositorio
 
 El repositorio está organizado en carpetas individuales para cada equipo de desarrollo. Cada equipo debe trabajar exclusivamente en su carpeta asignada:
 
@@ -50,7 +50,7 @@ Commits descriptivos: Asegúrate de que los mensajes de tus commits describan cl
 
 Respeto y colaboración: Mantén una comunicación respetuosa y usa las issues para consultas o reportes.
 
-🚀 Pasos para comenzar
+## 🚀 Pasos para comenzar
 
 1. Clona el repositorio
 Descarga el repositorio a tu computadora local:
@@ -80,7 +80,7 @@ git push origin main
 
 Nota: Si tu equipo trabaja en una rama propia, reemplaza main por el nombre de tu rama.
 
-✅ Buenas prácticas
+## ✅ Buenas prácticas
 
 Respalda tu trabajo: Haz commits frecuentes para evitar pérdida de información.
 
@@ -92,7 +92,7 @@ Comunicación: Usa la sección de issues en GitHub para reportar problemas o dis
 
 Organización: Mantén una estructura clara de carpetas y archivos dentro de tu equipo.
 
-🧑‍💻 Soporte
+## 🧑‍💻 Soporte
 
 Si tienes dudas o problemas técnicos, comunícate con el administrador del repositorio o utiliza la sección de issues.
 

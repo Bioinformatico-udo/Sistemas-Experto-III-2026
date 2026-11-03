@@ -36,9 +36,9 @@ Dentro de cada carpeta, cada equipo puede organizar su proyecto de la siguiente 
 
 ## 🛠️ Reglas para trabajar en el repositorio
 
-Trabajo exclusivo en tu carpeta: Cada equipo debe modificar solo los archivos dentro de su carpeta asignada (EquipoX).
+**Trabajo exclusivo en tu carpeta**: Cada equipo debe modificar solo los archivos dentro de su carpeta asignada (EquipoX).
 
-Documentación: Cada proyecto debe incluir un archivo README.md con:
+**Documentación**: Cada proyecto debe incluir un archivo README.md con:
 
 Nombre del proyecto.
 
@@ -48,11 +48,11 @@ Instrucciones de instalación y uso.
 
 Ejemplos de entrada/salida.
 
-Sin cambios en otras carpetas: Evita editar archivos de otros equipos o de la raíz del repositorio.
+**Sin cambios en otras carpetas**: Evita editar archivos de otros equipos o de la raíz del repositorio.
 
-Commits descriptivos: Asegúrate de que los mensajes de tus commits describan claramente los cambios realizados.
+**Commits descriptivos**: Asegúrate de que los mensajes de tus commits describan claramente los cambios realizados.
 
-Respeto y colaboración: Mantén una comunicación respetuosa y usa las issues para consultas o reportes.
+**Respeto y colaboración**: Mantén una comunicación respetuosa y usa las issues para consultas o reportes.
 
 ## 🚀 Pasos para comenzar
 

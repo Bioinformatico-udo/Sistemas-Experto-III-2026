@@ -9,6 +9,7 @@ Fomentar el aprendizaje, la creatividad y el desarrollo de habilidades práctica
 
 El repositorio está organizado en carpetas individuales para cada equipo de desarrollo. Cada equipo debe trabajar exclusivamente en su carpeta asignada:
 
+```
 /Proyectos-Sistemas-Expertos-III-2026
 ├── Equipo1/
 ├── Equipo2/
@@ -21,14 +22,17 @@ El repositorio está organizado en carpetas individuales para cada equipo de des
 ├── Equipo9/
 ├── Equipo10/
 └── Equipo11/
+```
 Dentro de cada carpeta, cada equipo puede organizar su proyecto de la siguiente manera:
 
+```
 /EquipoX
 ├── README.md          # Descripción del proyecto
 ├── src/               # Código fuente
 ├── docs/              # Documentación adicional
 ├── tests/             # Casos de prueba (opcional)
 └── assets/            # Recursos como imágenes o diagramas (opcional)
+```
 
 🛠️ Reglas para trabajar en el repositorio
 
@@ -55,28 +59,36 @@ Respeto y colaboración: Mantén una comunicación respetuosa y usa las issues p
 1. Clona el repositorio
 Descarga el repositorio a tu computadora local:
 
+```bash
 git clone https://github.com/Bioinformatico-udo/Sistemas-Experto-III-2026.git
+```
 
-2. Cambia al directorio de tu equipo
+2. **Cambia al directorio de tu equipo**
 Navega a la carpeta correspondiente a tu equipo de desarrollo:
 
 cd Equipo1  # Cambia 'Equipo1' por tu carpeta asignada
 
-3. Trabaja en tu proyecto
+3. **Trabaja en tu proyecto**
 Agrega tus archivos y realiza los cambios necesarios. Recuerda documentar tu progreso y mantener el código organizado.
 
-4. Sube tus cambios al repositorio
+4. **Sube tus cambios al repositorio**
 Agrega los archivos modificados:
 
+```bash
 git add .
+```
 
 Crea un commit descriptivo:
 
+```bash
 git commit -m "Descripción de los cambios"
+```
 
 Sube los cambios al repositorio remoto:
 
+```bash
 git push origin main
+```
 
 Nota: Si tu equipo trabaja en una rama propia, reemplaza main por el nombre de tu rama.
 

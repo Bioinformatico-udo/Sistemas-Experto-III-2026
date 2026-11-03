@@ -2,9 +2,11 @@ Repositorio de Proyectos de Sistemas Expertos III 2026
 Bienvenido/a al repositorio oficial de Proyectos de Sistemas Expertos III 2026. Este espacio está dedicado a los proyectos desarrollados por los Equipos de Desarrollo 1 al 11. Cada equipo tiene asignada una carpeta específica para trabajar en su proyecto, con el objetivo de evitar conflictos entre equipos y fomentar un entorno colaborativo.
 
 🚀 Objetivo
+
 Fomentar el aprendizaje, la creatividad y el desarrollo de habilidades prácticas en la implementación de sistemas expertos, proporcionando un entorno colaborativo para compartir, mejorar y documentar proyectos académicos.
 
 📂 Estructura del repositorio
+
 El repositorio está organizado en carpetas individuales para cada equipo de desarrollo. Cada equipo debe trabajar exclusivamente en su carpeta asignada:
 
 /Proyectos-Sistemas-Expertos-III-2026
@@ -29,6 +31,7 @@ Dentro de cada carpeta, cada equipo puede organizar su proyecto de la siguiente 
 └── assets/            # Recursos como imágenes o diagramas (opcional)
 
 🛠️ Reglas para trabajar en el repositorio
+
 Trabajo exclusivo en tu carpeta: Cada equipo debe modificar solo los archivos dentro de su carpeta asignada (EquipoX).
 
 Documentación: Cada proyecto debe incluir un archivo README.md con:

@@ -48,35 +48,37 @@ Commits descriptivos: Asegúrate de que los mensajes de tus commits describan cl
 Respeto y colaboración: Mantén una comunicación respetuosa y usa las issues para consultas o reportes.
 
 🚀 Pasos para comenzar
+
 1. Clona el repositorio
 Descarga el repositorio a tu computadora local:
 
-bash
 git clone https://github.com/Bioinformatico-udo/Sistemas-Experto-III-2026.git
+
 2. Cambia al directorio de tu equipo
 Navega a la carpeta correspondiente a tu equipo de desarrollo:
 
-bash
 cd Equipo1  # Cambia 'Equipo1' por tu carpeta asignada
+
 3. Trabaja en tu proyecto
 Agrega tus archivos y realiza los cambios necesarios. Recuerda documentar tu progreso y mantener el código organizado.
 
 4. Sube tus cambios al repositorio
 Agrega los archivos modificados:
 
-bash
 git add .
+
 Crea un commit descriptivo:
 
-bash
 git commit -m "Descripción de los cambios"
+
 Sube los cambios al repositorio remoto:
 
-bash
 git push origin main
+
 Nota: Si tu equipo trabaja en una rama propia, reemplaza main por el nombre de tu rama.
 
 ✅ Buenas prácticas
+
 Respalda tu trabajo: Haz commits frecuentes para evitar pérdida de información.
 
 Revisa tu código: Antes de subir cambios, asegúrate de que todo funciona correctamente.
@@ -88,6 +90,7 @@ Comunicación: Usa la sección de issues en GitHub para reportar problemas o dis
 Organización: Mantén una estructura clara de carpetas y archivos dentro de tu equipo.
 
 🧑‍💻 Soporte
+
 Si tienes dudas o problemas técnicos, comunícate con el administrador del repositorio o utiliza la sección de issues.
 
 ¡Gracias por colaborar y dar lo mejor de ti en este proyecto! 😊

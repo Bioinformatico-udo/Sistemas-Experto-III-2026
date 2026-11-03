@@ -27,6 +27,7 @@ Dentro de cada carpeta, cada equipo puede organizar su proyecto de la siguiente 
 ├── docs/              # Documentación adicional
 ├── tests/             # Casos de prueba (opcional)
 └── assets/            # Recursos como imágenes o diagramas (opcional)
+
 🛠️ Reglas para trabajar en el repositorio
 Trabajo exclusivo en tu carpeta: Cada equipo debe modificar solo los archivos dentro de su carpeta asignada (EquipoX).
 

@@ -34,7 +34,7 @@ Dentro de cada carpeta, cada equipo puede organizar su proyecto de la siguiente 
 └── assets/            # Recursos como imágenes o diagramas (opcional)
 ```
 
-🛠️ Reglas para trabajar en el repositorio
+## 🛠️ Reglas para trabajar en el repositorio
 
 Trabajo exclusivo en tu carpeta: Cada equipo debe modificar solo los archivos dentro de su carpeta asignada (EquipoX).
 
@@ -56,7 +56,7 @@ Respeto y colaboración: Mantén una comunicación respetuosa y usa las issues p
 
 ## 🚀 Pasos para comenzar
 
-1. Clona el repositorio
+1. **Clona el repositorio**
 Descarga el repositorio a tu computadora local:
 
 ```bash
@@ -72,19 +72,20 @@ cd Equipo1  # Cambia 'Equipo1' por tu carpeta asignada
 Agrega tus archivos y realiza los cambios necesarios. Recuerda documentar tu progreso y mantener el código organizado.
 
 4. **Sube tus cambios al repositorio**
-Agrega los archivos modificados:
+
+**Agrega los archivos modificados:**
 
 ```bash
 git add .
 ```
 
-Crea un commit descriptivo:
+**Crea un commit descriptivo:**
 
 ```bash
 git commit -m "Descripción de los cambios"
 ```
 
-Sube los cambios al repositorio remoto:
+**Sube los cambios al repositorio remoto:**
 
 ```bash
 git push origin main
@@ -94,15 +95,15 @@ Nota: Si tu equipo trabaja en una rama propia, reemplaza main por el nombre de t
 
 ## ✅ Buenas prácticas
 
-Respalda tu trabajo: Haz commits frecuentes para evitar pérdida de información.
+**Respalda tu trabajo**: Haz commits frecuentes para evitar pérdida de información.
 
-Revisa tu código: Antes de subir cambios, asegúrate de que todo funciona correctamente.
+**Revisa tu código**: Antes de subir cambios, asegúrate de que todo funciona correctamente.
 
-Documenta tu proyecto: Mantén actualizado el README.md de tu equipo.
+**Documenta tu proyecto**: Mantén actualizado el README.md de tu equipo.
 
-Comunicación: Usa la sección de issues en GitHub para reportar problemas o discutir ideas con el administrador del proyecto.
+**Comunicación**: Usa la sección de issues en GitHub para reportar problemas o discutir ideas con el administrador del proyecto.
 
-Organización: Mantén una estructura clara de carpetas y archivos dentro de tu equipo.
+**Organización**: Mantén una estructura clara de carpetas y archivos dentro de tu equipo.
 
 ## 🧑‍💻 Soporte
 
